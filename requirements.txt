@@ -1,0 +1,13 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+scikit-image
+scipy
+rasterio
+pystac-client
+planetary-computer
+Pillow
+tqdm
+onnx
+onnxscript
+onnxruntime
